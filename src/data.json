@@ -1,0 +1,6 @@
+{
+  "tasks": [
+    {"id": 1, "text": "Install Webpack", "completed": true},
+    {"id": 2, "text": "Build a Todo List", "completed": false}
+  ]
+}
