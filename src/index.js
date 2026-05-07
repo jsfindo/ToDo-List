@@ -1,6 +1,7 @@
 let projects = JSON.parse(localStorage.getItem('projects')) || [];
 let todos = JSON.parse(localStorage.getItem('todos')) || [];
 
+
 function createproject(){
     return {
         Name :prompt("enter project name:"),
